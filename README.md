@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋  
+I’m Syahla, an undergraduate Biomedical Engineering student with a strong interest on robotics, UAV systems, and computer vision. And now
+I’m actively involved in a VTOL (Vertical Take-Off and Landing) aircraft team as a Vision and Control Programmer. Recently, my work has centered on deep learning–based image processing for real-time applications.
 
-<!--
-**catSushiRoll/catSushiRoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Let's Connect!
+I'm always open to discussions, collaborations, and learning opportunities.<br>
+<a href="https://github.com/catSushiRoll"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/syahla-fidela-pramudita-8a2204367/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.instagram.com/syahlafidela/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Software & Tools
+Will be updated as time goes by as I learn 
+<img src="https://skillicons.dev/icons?i=python,opencv,ros,linux,git,github,cpp,docker,raspberrypi" />
