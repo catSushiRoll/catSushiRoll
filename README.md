@@ -14,3 +14,5 @@ I'm always open to discussions, collaborations, and learning opportunities.<br>
 ## 🛠️ Software & Tools
 Will be updated as time goes by as I learn 
 <img src="https://skillicons.dev/icons?i=python,opencv,ros,linux,git,github,cpp,docker,raspberrypi" />
+
+![Syahla as catSushiRoll GitHub stats](https://github-readme-stats.vercel.app/api?username=acatSushiRoll&show_icons=true&theme=radical)
