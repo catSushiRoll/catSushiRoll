@@ -14,4 +14,3 @@ I'm always open to discussions, collaborations, and learning opportunities.<br>
 ## 🛠️ Software & Tools
 Will be updated as time goes by as I learn <br>
 <img src="https://skillicons.dev/icons?i=python,opencv,ros,linux,git,github,cpp,docker,raspberrypi" />
-
