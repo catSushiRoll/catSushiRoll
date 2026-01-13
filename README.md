@@ -14,3 +14,7 @@ I'm always open to discussions, collaborations, and learning opportunities.<br>
 ## 🛠️ Software & Tools
 Will be updated as time goes by as I learn 
 <img src="https://skillicons.dev/icons?i=python,opencv,ros,linux,git,github,cpp,docker,raspberrypi" />
+
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/catSushiRoll/catSushiRoll/snake/github-contribution-grid-snake.svg)
