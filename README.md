@@ -13,4 +13,12 @@ I'm always open to discussions, collaborations, and learning opportunities.<br>
 
 ## 🛠️ Software & Tools
 Will be updated as time goes by as I learn <br>
-<img src="https://skillicons.dev/icons?i=python,opencv,ros,linux,git,github,cpp,docker,raspberrypi" />
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv"/></a>
+<a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github"/></a>
+<img src="https://skillicons.dev/icons?i=cpp" />
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="https://www.raspberrypi.com"><img src="https://skillicons.dev/icons?i=raspberrypi"/></a>
