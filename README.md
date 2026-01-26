@@ -22,3 +22,9 @@ Will be updated as time goes by as I learn <br>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker"/></a>
 <a href="https://www.raspberrypi.com"><img src="https://skillicons.dev/icons?i=raspberrypi"/></a>
+
+<!-- <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=catSushiRoll&show_icons=true&theme=tokyonight" alt="catSushiRoll" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearhunt&theme=tokyonight&show_icons=true&layout=compact&langs_count=8" alt="catSushiRoll" /> -->
+<!-- </p> --> -->
+
